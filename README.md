@@ -8,14 +8,14 @@ Get perfect shadows every time for the non-designer.
 
 Then...
 
-...
+```
 import { shadowizard } from ''shadowizard;
 
 shadowizard({
     shadow_type: 'soft',
     padding: false
 });
-...
+```
 
 ## Options
 
